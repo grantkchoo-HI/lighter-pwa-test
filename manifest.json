@@ -1,0 +1,15 @@
+{
+  "name": "Lighter — Debt Payoff Companion",
+  "short_name": "Lighter",
+  "description": "A calm, private debt payoff companion.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f6f0",
+  "theme_color": "#24483f",
+  "orientation": "any",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
